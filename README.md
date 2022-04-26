@@ -5,7 +5,7 @@
 - 📫 Michael.blakley@edu.bc.fi is my school email. Contact me for my private email. 
 
 ##Languages, tools, frameworks, etc.
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 
 
