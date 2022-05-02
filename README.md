@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, designing.
 - 🌱 I’m currently studying to be a full-stack web developer.
 - 🖌 I'm interested in CSS animation and making things look cool. Still at the starting stages though.
-- 📫 Michael.blakley@edu.bc.fi is my school email. Contact me for my private email. 
+- 📫 Michael.blakley@edu.bc.fi is my school email. Contact me for my private email. Or stalk me on [LinkedIn!](https://www.linkedin.com/in/mjblakley87/)
 
 ##Languages, tools, frameworks, etc.
 
