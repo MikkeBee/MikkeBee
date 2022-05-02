@@ -17,9 +17,9 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
-##Random info that may interest you
+##Random info that may interest you. 
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MikkeBee)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MikkeBee&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MikkeBee&theme=blue-green)
 
 <!---
