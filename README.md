@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding, designing.
 - 🌱 I’m currently studying to be a full-stack web developer.
 - 🖌 I'm interested in CSS animation and making things look cool. Still at the starting stages though.
+- 💻 I have a background in marketing, events management, Salesforce and Marketing Cloud CRMs, and even a bit of graphic design. 
 - 📫 Michael.blakley@edu.bc.fi is my school email. Contact me for my private email. Or stalk me on [LinkedIn!](https://www.linkedin.com/in/mjblakley87/)
 
 ##Languages, tools, frameworks, etc.
@@ -14,7 +15,12 @@
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
+##Random info that may interest you
+![Profile View Counter](https://komarev.com/ghpvc/?username=MikkeBee)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MikkeBee&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MikkeBee&theme=blue-green)
 
 <!---
 MikkeBee/MikkeBee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
