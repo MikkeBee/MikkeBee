@@ -5,7 +5,7 @@
 - 💻 I have a background in marketing, events management, Salesforce and Marketing Cloud CRMs, and even a bit of graphic design. 
 - 📫 Michael.blakley@edu.bc.fi is my school email. Contact me for my private email. Or stalk me on [LinkedIn!](https://www.linkedin.com/in/mjblakley87/)
 
-#Languages, tools, frameworks, etc.
+## Languages, tools, frameworks, etc.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,7 +21,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![MailChimp](https://img.shields.io/badge/MailChimp-FFE01B.svg?style=for-the-badge&logo=MailChimp&logoColor=black)
 
-#Random info that may interest you. 
+## Random info that may interest you. 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MikkeBee)
 
