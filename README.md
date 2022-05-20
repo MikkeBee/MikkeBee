@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MikkeBee
 - 👀 I’m interested in coding, designing.
 - 🌱 I’m currently studying to be a full-stack web developer.
+- 🧑🏻‍💻 Many of my projects, especially older ones, have commented-out text and notes. As I am still studying, I want to keep these in, as they are valuable learning materials for me. Hopefully the further I progress in school, the fewer notes and examples I will need to keep.
 - 🖌 I'm interested in CSS animation and making things look cool. Still at the starting stages though.
 - 💻 I have a background in project management, marketing, events management, Salesforce and Marketing Cloud CRMs, and even a bit of graphic design. 
 - 📫 Michael.blakley@edu.bc.fi is my school email. Contact me for my private email. Or stalk me on [LinkedIn!](https://www.linkedin.com/in/mjblakley87/)
