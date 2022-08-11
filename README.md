@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MikkeBee
-- 👀 I’m interested in coding, designing.
+- 👀 I’m interested in coding and designing. My goal is to contribute something useful to the world, not just make pretty websites. Though that's fun, too!
 - 🌱 I’m currently studying to be a full-stack web developer.
 - 🧑🏻‍💻 Many of my projects, especially older ones, have commented-out text and notes. As I am still studying, I want to keep these in, as they are valuable learning materials for me. Hopefully the further I progress in school, the fewer notes and examples I will need to keep.
 - 🖌 I'm interested in CSS animation and making things look cool. Still at the starting stages though.
