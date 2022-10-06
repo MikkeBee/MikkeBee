@@ -27,7 +27,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MikkeBee)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikkeBee&layout=compact)
 
 <!---
 MikkeBee/MikkeBee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
