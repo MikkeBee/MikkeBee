@@ -22,11 +22,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![MailChimp](https://img.shields.io/badge/MailChimp-FFE01B.svg?style=for-the-badge&logo=MailChimp&logoColor=black)
 
-## Random info that may interest you. 
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MikkeBee)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikkeBee&layout=compact)
 
 <!---
 MikkeBee/MikkeBee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
