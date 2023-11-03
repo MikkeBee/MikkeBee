@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mikke!
 - 👀 I’m interested in coding and designing. My goal is to contribute something useful to the world, not just make pretty stuff. Though that's fun, too!
-- 🌱 I’m currently a front-end developer at Arnolds (Yes, the donut place). Working toward MERN full stack proficiency. 
-- 🧑🏻‍💻 I'm working mostly with React Native / React. I've also started playing around with Storybook. 
-- 🖌 I'm interested in CSS animation and making things look cool. Still at the starting stages though.
+- 🌱 I’m currently as front-end mobile and web developer at Arnolds (Yes, the donut place). Working toward MERN full stack proficiency. 
+- 🧑🏻‍💻 I'm working mostly with React Native / React.
+- 🖌 I'm interested in CSS animation, and generally making things look cool.
 - 💻 I have a background in project management, marketing, events management, Salesforce and Marketing Cloud CRMs, and even a bit of graphic design. 
 - 📫 Contact me for my private email. Or stalk me on [LinkedIn!](https://www.linkedin.com/in/mjblakley87/)
 
