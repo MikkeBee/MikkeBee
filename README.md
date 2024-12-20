@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mikke!
 - 👀 I’m interested in coding and designing. My goal is to contribute something useful to the world, not just make pretty stuff. Though that's fun, too!
-- 🌱 I’m a front-end mobile and web developer, working toward MERN full stack proficiency. 
+- 🌱 I’m a frontend-leaning fullstack developer. 
 - 🧑🏻‍💻 I'm working mostly with React Native / React.
 - 🖌 I'm interested in CSS animation, and generally making things look cool.
 - 💻 I have a background in project management, marketing, events management, Salesforce and Marketing Cloud CRMs, and even a bit of graphic design. 
