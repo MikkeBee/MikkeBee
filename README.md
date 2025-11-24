@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mikke!
+- 👋 Hi, I’m Michael, but I usually go by Mikke. Either name works for me!
 - 👀 I’m interested in coding and designing. My goal is to contribute something useful to the world, not just make pretty stuff. Though that's fun, too!
 - 🌱 I’m a frontend-leaning fullstack developer. 
-- 🧑🏻‍💻 I'm working mostly with React Native / React.
-- 🖌 I'm interested in CSS animation, and generally making things look cool.
+- 🧑🏻‍💻 I'm work with a bit of everything: React Native, React, Next.js, Gatsby, Svelte, Flutter, and if I really have to then also PHP.
+- 🖌 I'm interested in making stuff, especially things that look cool, and learning. My philosophy is never stop learning. 
 - 💻 I have a background in project management, marketing, events management, Salesforce and Marketing Cloud CRMs, and even a bit of graphic design. 
 - 📫 Contact me or stalk me on [LinkedIn!](https://www.linkedin.com/in/mjblakley87/)
 
